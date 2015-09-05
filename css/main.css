@@ -1,0 +1,50 @@
+/* Main Page Styling */
+
+body {
+    background-color: black;
+    color: #aaa;
+    margin:auto;
+    width: 90%;
+    
+}
+
+ul {
+    text-decoration: none;
+    margin-top: 40px;
+    background-color: lightgrey;
+    
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+header img {
+    float: left;
+    margin-right: 2%
+}
+
+header {
+    margin-left: 50px;
+}
+
+header h1 {
+    margin-bottom: -20px;
+}
+
+
+section {
+    margin: 10%;
+    background-color: dimgrey;
+}
+
+section img {
+    float: right
+}
+
+#video {
+    float: none;
+}
+    
